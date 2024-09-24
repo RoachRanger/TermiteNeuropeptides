@@ -1,0 +1,58 @@
+Abbreviation	Neuropeptide
+AKH	Adipokinetic hormone
+ALP	Agatoxin-like peptide
+ACP	AKH/corazonin-related peptide
+AstA	Allatostatin A
+AstCC	Allatostatin CC
+AstCCC	Allatostatin CCC
+AT	Allatotropin
+Burα	Bursicon alpha
+Burβ	Bursicon beita
+CTA	Calcitonin A
+CTB	Calcitonin B
+CTDH	Calcitonin-like diuretic hormone
+CNP	Carausius neuropeptide-like precursor
+CCH	CCHamide
+CCRF	CCRFamide
+CNM	CNMamide
+Crz	Corazonin 
+CRFDH	CRF-like diuretic hormone
+CCAP	Crustacean cardioactive peptide
+ETH	Ecdysis triggering hormone
+EH	Eclosion hormone
+Evn	Elevenin
+Flik	Fliktin
+FMRF	FMRFamide
+GPA2	Glycoprotein hormone alpha2
+GPB5	Glycoprotein hormone beta5
+Gon	Gonadulin
+Han	HanSolin
+ILP	Insulin-like peptide
+IPTH	Invertebrate parathyroid hormone 
+ITPa	ITP transcript A
+ITPb	ITP transcript B
+K	Kinin
+MIP, AstB	Myoinhibitory peptide
+Myo	Myosuppressin 
+Nat	Natalisin
+NP	Neuroparsin
+NPF	Neuropeptide F
+NPLP	Neuropeptide-like peptide 
+NVP	NVP-like 
+OK	Orcokinin
+CAPA	Periviscerokinin
+PDF	Pigment dispersing factor
+PT	Proctolin 
+PTTH	Prothoracicotropic hormone
+PK	Pyrokinin
+RLP	Relaxin-like peptide 
+RFL	RFLamide
+RY	RYamide
+sNPF	Short Neuropeptide F 
+SIF	SIFamide
+SMY	SMYamide
+Sul	Sulfakinin
+TK	Tachykinin
+Tri	Trissin 
+TPK	Tryptopyrokinin 
+VP	vasopressin
